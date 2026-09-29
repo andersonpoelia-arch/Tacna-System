@@ -1,17 +1,13 @@
 {
-  "global_activo": true,
   "usuarios": {
-    "TACNA-KEY-001": {
-      "activo": true,
-      "expiracion": 1793318399000,
-      "cliente": "Cliente 1",
-      "id_cuenta": ""
+    "Guerson": {
+      "activo": true
     },
-    "TACNA-KEY-002": {
-      "activo": false,
-      "expiracion": 1793318399000,
-      "cliente": "Cliente 2",
-      "id_cuenta": ""
+    "ClienteDos": {
+      "activo": false
+    },
+    "ClienteTres": {
+      "activo": true
     }
   }
 }
