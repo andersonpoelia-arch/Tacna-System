@@ -1,5 +1,17 @@
 {
-  "activo": true,
-  "expiracion": 1793318399000,
-  "mensaje": "La licencia de TACNA SYSTEM ha expirado o ha sido desactivada."
+  "global_activo": true,
+  "usuarios": {
+    "TACNA-KEY-001": {
+      "activo": true,
+      "expiracion": 1793318399000,
+      "cliente": "Cliente 1",
+      "id_cuenta": "1135099"
+    },
+    "TACNA-KEY-002": {
+      "activo": false,
+      "expiracion": 1793318399000,
+      "cliente": "Cliente 2",
+      "id_cuenta": "AQUÍ_EL_ID_DE_CUENTA_2"
+    }
+  }
 }
