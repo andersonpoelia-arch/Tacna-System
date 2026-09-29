@@ -5,13 +5,13 @@
       "activo": true,
       "expiracion": 1793318399000,
       "cliente": "Cliente 1",
-      "id_cuenta": "1135099"
+      "id_cuenta": ""
     },
     "TACNA-KEY-002": {
       "activo": false,
       "expiracion": 1793318399000,
       "cliente": "Cliente 2",
-      "id_cuenta": "AQUÍ_EL_ID_DE_CUENTA_2"
+      "id_cuenta": ""
     }
   }
 }
