@@ -1,7 +1,7 @@
 {
   "usuarios": {
     "Guerson": {
-      "activo": false
+      "activo": true
     },
     "ClienteDos": {
       "activo": false
